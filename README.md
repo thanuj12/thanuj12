@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thanuj12
-- 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning BSc. Computer Science
-- 💞️ I’m looking to collaborate on (need to decide)
-- 📫 How to reach me E-mail - thanuj.2019421@iit.ac.lk
+- 👋 Hi, I’m Thanuj
+- 👀 I’m interested in Mobile App Development, Web Development & Graphics Designing
+- 🌱 I’m currently a B(Sc) Computer Science Graduate
+- 💞️ I’m looking to collaborate as a Freelancer
+- 📫 How to reach me E-mail - thanuj429@gmail.com
 
 <!---
 thanuj12/thanuj12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
