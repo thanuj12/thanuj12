@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Thanuj
 - 👀 I’m interested in Mobile App Development, Web Development & Graphics Designing
-- 🌱 I’m currently a B(Sc) Computer Science Graduate
 - 💻  I’m looking to collaborate as a Freelancer
 - 📫 How to reach me E-mail - thanujanandaraj.dev@gmail.com
 
